@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manisha BHadoria
+- 👋 Hi, I’m Manisha Bhadoria
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning BE in computer Engineering
 - 💞️ I’m looking to collaborate on .
